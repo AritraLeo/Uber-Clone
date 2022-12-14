@@ -41,7 +41,7 @@ const HomeScreen = () => {
                     // enablePoweredByContainer={false}
                     // minLength={2}
                     query={{
-                        key: 'AIzaSyDu-d_v9IAEEn4SsmINt_OmqEOGp2dQ4eE',
+                        key: GOOGLE_MAPS_APIKEY,
                         language: 'en'
                     }}
                     
